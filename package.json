@@ -1,0 +1,18 @@
+{
+  "name": "opengod-agent",
+  "version": "1.0.0",
+  "description": "AI agent combining OpenClaude, Hermes Agent, and OpenClaw concepts as a Discord bot.",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.4.7",
+    "openai": "^4.82.0",
+    "picocolors": "^1.1.1"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "authenticatedUsers": [],
+  "searchHistory": [],
+  "settings": {
+    "safeSearch": true,
+    "model": "google/gemini-2.5-flash"
+  },
+  "memory": {}
+}
